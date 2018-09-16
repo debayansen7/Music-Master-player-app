@@ -1,0 +1,24 @@
+body{
+  background: #000;
+  color: #fff;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.App{
+  text-align: center;
+  padding: 5%;
+}
+
+.App-header{
+  border: 1px double #fff;
+  border-radius: 20%;
+  padding: 5%;
+}
+
+.App-title{
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
