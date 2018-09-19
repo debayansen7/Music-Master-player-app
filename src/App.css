@@ -12,9 +12,9 @@ body{
 }
 
 .App-header{
-  border: 1px double #fff;
-  border-radius: 20%;
-  padding: 5%;
+  border: 5px double #fff;
+  border-radius: 2%;
+  padding: 2%;
 }
 
 .App-title{
